@@ -1,5 +1,9 @@
 # rust入门学习
 
-1. 猜数字
-2. 基本概念
-3. 所有权
+- 一个猜数字项目 -> guessing_name
+- 基本概念 -> basic_concept
+- 所有权 -> ownership
+- 枚举和模式匹配 -> enum_and_pattern_matching
+- 错误处理 -> error_handle
+- 一个I/O项目-命令行 -> minigrep
+- rust vs js 性能测试 -> performance
