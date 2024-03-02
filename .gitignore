@@ -1,3 +1,7 @@
 guessing_name/target/*
 basic_concept/target/*
 ownership/target/*
+enum_and_pattern_matching/target/*
+error_handle/target/*
+minigrep/target/*
+performance/target/*
