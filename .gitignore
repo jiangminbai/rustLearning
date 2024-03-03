@@ -3,6 +3,8 @@ basic_concept/target/*
 ownership/target/*
 enum_and_pattern_matching/target/*
 package/target/*
+restaurant/target/*
 error_handle/target/*
+generic_trait_and_lifetime/target/*
 minigrep/target/*
 performance/target/*

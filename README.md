@@ -6,5 +6,6 @@
 - 枚举和模式匹配 -> enum_and_pattern_matching
 - 模块系统 -> package | restaurant
 - 错误处理 -> error_handle
+- 泛型、trait和生命周期 -> generic_trait_and_lifetime
 - 一个I/O项目-命令行 -> minigrep
 - rust vs js 性能测试 -> performance
